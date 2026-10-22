@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://formula-shelf.pages.dev/sitemap.xml
